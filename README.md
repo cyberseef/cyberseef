@@ -1,5 +1,6 @@
 ![Profile View Counter](https://komarev.com/ghpvc/?username=cyberseef)
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=cyberseef&show_icons=true)
+![GitHub Contributors Image](https://contrib.rocks/image?repo=cyberseef/DVWA-Installation-Guide)
+
 - 👋 Hi, I’m @cyberseef
 - 👀 I’m interested in Programming and Ethical Hacking
 - 🌱 I’m currently learning Cloud Security, Pentesting
@@ -8,7 +9,7 @@
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=cyberseef&theme=blue-green)
 
-![GitHub Contributors Image](https://contrib.rocks/image?repo=cyberseef/DVWA-Installation-Guide)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=cyberseef&show_icons=true)
 
 ##[Jokes Card](https://readme-jokes.vercel.app/api)
 
