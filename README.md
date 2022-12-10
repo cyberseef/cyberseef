@@ -1,4 +1,4 @@
-![Profile View Counter](https://komarev.com/ghpvc/?username=cyberseef&theme=purple)
+![Profile View Counter](https://komarev.com/ghpvc/?username=cyberseef)
 
 - 👋 Hi, I’m @cyberseef
 - 👀 I’m interested in Programming and Ethical Hacking
@@ -8,7 +8,7 @@
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=cyberseef&show_icons=true)
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=cyberseef&theme=blue-green-red)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=cyberseef&theme=purple-red)
 
 <!---
 ![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url = https://github.com/cyberseef/DVWA-Installation-Guide)
