@@ -1,5 +1,4 @@
 ![Profile View Counter](https://komarev.com/ghpvc/?username=cyberseef)
-![GitHub Contributors Image](https://contrib.rocks/image?repo=cyberseef/DVWA-Installation-Guide)
 
 - 👋 Hi, I’m @cyberseef
 - 👀 I’m interested in Programming and Ethical Hacking
