@@ -7,11 +7,9 @@
 - 💞️ I’m looking to collaborate on Malware Analysis, Reverse-Engineering, Pentesting or Bug Bounties
 - 📫 How to reach me touseef25@outlook.com
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=cyberseef&theme=blue-green)
-
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=cyberseef&show_icons=true)
 
-##[Jokes Card](https://readme-jokes.vercel.app/api)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=cyberseef&theme=blue-green)
 
 <!---
 ![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url = https://github.com/cyberseef/DVWA-Installation-Guide)
