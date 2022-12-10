@@ -1,3 +1,5 @@
+![Profile View Counter](https://komarev.com/ghpvc/?username=cyberseef)
+
 - 👋 Hi, I’m @cyberseef
 - 👀 I’m interested in Programming and Ethical Hacking
 - 🌱 I’m currently learning Cloud Security, Pentesting
@@ -11,8 +13,6 @@
 ![GitHub Contributors Image](https://contrib.rocks/image?repo=cyberseef/DVWA-Installation-Guide)
 
 ## 😂 Here is a random joke that'll make you laugh!\n![Jokes Card](https://readme-jokes.vercel.app/api)
-
-![Profile View Counter](https://komarev.com/ghpvc/?username=cyberseef)
 
 ![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url = https://github.com/cyberseef/DVWA-Installation-Guide)
 
