@@ -1,4 +1,4 @@
-![Profile View Counter](https://komarev.com/ghpvc/?username=cyberseef)
+![Profile View Counter](https://komarev.com/ghpvc/?username=cyberseef&theme=purple)
 
 - 👋 Hi, I’m @cyberseef
 - 👀 I’m interested in Programming and Ethical Hacking
