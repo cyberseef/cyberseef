@@ -5,11 +5,16 @@
 - 📫 How to reach me touseef25@outlook.com
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=cyberseef&show_icons=true)
+
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=cyberseef&theme=blue-green)
+
 ![GitHub Contributors Image](https://contrib.rocks/image?repo=cyberseef/DVWA-Installation-Guide)
+
 ## 😂 Here is a random joke that'll make you laugh!\n![Jokes Card](https://readme-jokes.vercel.app/api)
+
 ![Profile View Counter](https://komarev.com/ghpvc/?username=cyberseef)
-![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url = https://github.com/cyberseef/cyberseef/)
+
+![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url = https://github.com/cyberseef/DVWA-Installation-Guide)
 
 <!---
 cyberseef/cyberseef is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
