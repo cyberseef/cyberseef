@@ -3,7 +3,7 @@
 - 👋 Hi, I’m @cyberseef
 - 👀 I’m interested in Programming and Ethical Hacking
 - 🌱 I’m currently learning Cloud Security, Pentesting
-- 💞️ I’m looking to collaborate on Malware Analysis, Reverse-Engineering, Pentesting or Bug Bounties
+- 💞️ I’m looking to collaborate on AI and Cybersecurity Projects
 - 📫 How to reach me touseef25@outlook.com
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=cyberseef&show_icons=true)
