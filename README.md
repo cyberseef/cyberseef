@@ -7,6 +7,8 @@
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=cyberseef&show_icons=true)
 
+[![An image of @cyberseef's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/cyberseef)](https://holopin.io/@cyberseef)
+
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=cyberseef&theme=blue-green)
 
 <!---
